@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 🔭 I’m currently having an internship as a fullStack developer at Tsunami IT.
-- 🌱 I’m currently learning Laravel, NodeJs and flatter.
+- 🌱 I’m currently learning Laravel, NodeJs and flutter.
 - 👯 I’m looking to collaborate on springboot, angular open source projects.
 - 📫 How to reach me: medamine.khaili@esprit.tn.
 - 🌐 Here's my portfolio : https://medamine1212.github.io/ Check it out !
