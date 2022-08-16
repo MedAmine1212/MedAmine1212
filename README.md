@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h2>🚀 Some Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,py,java,php,jquery,ajax,r,angular,webpack,spring,maven,laravel,symfony,dotnet,mysql,sqlite,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim,regex,stackoverflow,figma,photoshop,illustrator,premiere)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,py,java,hibernate,C,cs,php,jquery,r,angular,webpack,spring,maven,laravel,symfony,dotnet,latex,mysql,sqlite,discord,bots,linux,git,github,gitlab,idea,eclipse,firebase,heroku,regex,stackoverflow,photoshop,illustrator,premiere,blender,aws)
 
 ## ⭐ *Top Languages*
 
