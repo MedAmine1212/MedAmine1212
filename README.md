@@ -14,11 +14,6 @@
 
  [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
-
-<p align="center">
-  <img  height="350px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-</p> 
-
 <!--
 *MedAmine1212/MedAmine1212* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
