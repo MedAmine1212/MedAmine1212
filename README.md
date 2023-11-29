@@ -1,9 +1,17 @@
-<h1 align="center">
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
-<!--  <strong> Hi there</strong>-->
-  <strong> Hi there, care for a meme ?</strong> 
+ <strong> 
+   <h1>  
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px"> Hi there 😁 
+   </h1>
+   <p align="center">
+      <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/MedAmine1212?hexColor=5ed4f3" />
+   </p>
+   <h4> Here's a meme before we get started </h4>
+  <div> <img height="500px" src='http://172.233.248.49' title="consider making a star on our repo please https://github.com/MedAmine1212/dev-memer" alt="Please refresh the page if the meme doesn't show up." > <div>
+   <h6> refresh to get a new meme </h6> 
+  </strong>
+  </h1>
 
-</h1>
+ [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
 
 <p align="center">
