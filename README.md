@@ -7,7 +7,7 @@
       <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/MedAmine1212?hexColor=5ed4f3" />
    </p>
    <h4> Here's a meme before we get started </h4>
-  <div> <img height="500px" src='http://172.233.248.49' title="consider making a star on our repo please https://github.com/MedAmine1212/dev-memer" alt="Please refresh the page if the meme doesn't show up." > <div>
+  <div> <img height="500px" src='http://172.233.248.49' title="consider making a star on our repo please https://github.com/bassem97/dev-memer" alt="Please refresh the page if the meme doesn't show up." > <div>
    <h6> refresh to get a new meme </h6> 
   </strong>
   </h1>
@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🔭 I’m currently having an internship as a fullStack developer at Tsunami IT.
-- 🌱 I’m currently learning Laravel, NodeJs and flutter.
-- 👯 I’m looking to collaborate on springboot, angular open source projects.
+- 🔭 I have just finished my engineering end of studies internship with Liberrex.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on springboot, vuejs3 open source projects.
 - 📫 How to reach me: medamine.khaili@esprit.tn.
 - 🌐 Here's my portfolio : https://medamine1212.github.io/ Check it out !
 
 
 <h2>🚀 Some Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,py,java,hibernate,c,cs,php,jquery,r,angular,spring,maven,laravel,symfony,dotnet,latex,mysql,sqlite,discord,bots,linux,git,github,gitlab,idea,eclipse,firebase,heroku,regex,stackoverflow,photoshop,illustrator,premiere,blender,aws)
+![My Skills](https://skillicons.dev/icons?i=flutter,html,css,bootstrap,js,ts,py,java,hibernate,c,cs,php,jquery,r,angular,vuejs,spring,maven,laravel,symfony,dotnet,latex,mysql,sqlite,discord,bots,linux,git,github,gitlab,idea,eclipse,firebase,heroku,regex,stackoverflow,photoshop,illustrator,premiere,blender,aws)
 
 ## ⭐ *Top Languages*
 
