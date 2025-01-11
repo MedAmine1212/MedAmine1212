@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🔭 Currently working as a full stack software engineer with [Devino](https://www.devino.ca/).
+- 🔭 Currently working as a full stack software engineer at [Devino](https://www.devino.ca/).
 - 👯 I’m looking to collaborate on springboot, vuejs3, nextjs, python open source projects.
 - 📫 How to reach me: amine@devino.ca, medamine.khaili@esprit.tn, khaili.amine@hotmail.fr.
 - 🌐 Here's my portfolio : https://medamine1212.github.io/ Check it out !
