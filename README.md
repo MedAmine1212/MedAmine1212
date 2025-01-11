@@ -22,16 +22,15 @@ Here are some ideas to get you started:
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🔭 I have just finished my engineering end of studies internship with Liberrex.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on springboot, vuejs3 open source projects.
-- 📫 How to reach me: medamine.khaili@esprit.tn.
+- 🔭 Currently working as a full stack software engineer with [Devino](https://www.devino.ca/).
+- 👯 I’m looking to collaborate on springboot, vuejs3, nextjs, python open source projects.
+- 📫 How to reach me: amine@devino.ca, medamine.khaili@esprit.tn, khaili.amine@hotmail.fr.
 - 🌐 Here's my portfolio : https://medamine1212.github.io/ Check it out !
 
 
 <h2>🚀 Some Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=flutter,html,css,bootstrap,js,ts,py,java,hibernate,c,cs,php,jquery,r,angular,vuejs,spring,maven,laravel,symfony,dotnet,latex,mysql,sqlite,discord,bots,linux,git,github,gitlab,idea,eclipse,firebase,heroku,regex,stackoverflow,photoshop,illustrator,premiere,blender,aws)
+![My Skills](https://skillicons.dev/icons?i=flutter,html,css,bootstrap,js,ts,py,java,hibernate,c,cs,php,jquery,r,angular,vuejs,nextjs,react,expressjs,spring,maven,laravel,symfony,dotnet,latex,mysql,sqlite,discord,bots,linux,git,github,gitlab,idea,eclipse,firebase,heroku,regex,stackoverflow,photoshop,illustrator,premiere,blender,aws)
 
 ## ⭐ *Top Languages*
 
